@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ali-Unreal\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ali-Unreal\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MainTunel.263317470.00" t="ExcludeRecursive" />
+    <e p="D:\Drive other content\ali\BesazBefroosh\Prototype\MainTunel" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="buttonBehaviour.cs" t="Include" />
+        <e p="DOTween" t="Include">
+          <e p="Modules" t="Include">
+            <e p="DOTweenModuleAudio.cs" t="Include" />
+            <e p="DOTweenModulePhysics.cs" t="Include" />
+            <e p="DOTweenModulePhysics2D.cs" t="Include" />
+            <e p="DOTweenModuleSprite.cs" t="Include" />
+            <e p="DOTweenModuleUI.cs" t="Include" />
+            <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+            <e p="DOTweenModuleUtils.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="PrototypeUi" t="Include">
+          <e p="Script" t="Include">
+            <e p="ColorManager.cs" t="Include" />
+            <e p="DropdownContentsCount.cs" t="Include" />
+            <e p="PaletteApply.cs" t="Include" />
+            <e p="ScrollContanetsCount.cs" t="Include" />
+            <e p="ScrollSnapRect.cs" t="Include" />
+            <e p="SliderValueReciver.cs" t="Include" />
+            <e p="SliderValueSender.cs" t="Include" />
+            <e p="ToggleSender.cs" t="Include" />
+            <e p="ToggleValue.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Blocks" t="Include">
+            <e p="Movements" t="Include">
+              <e p="AutomatedDoorMove.cs" t="Include" />
+              <e p="GapingObstacleMove.cs" t="Include" />
+              <e p="MoveSystem.cs" t="Include" />
+              <e p="RotatorMove.cs" t="Include" />
+              <e p="RounderMove.cs" t="Include" />
+            </e>
+            <e p="MovingEnviroment.cs" t="Include" />
+            <e p="MovingEnviromentEnd.cs" t="Include" />
+            <e p="TunnelManager.cs" t="Include" />
+            <e p="TunnelPoolHelper.cs" t="Include" />
+          </e>
+          <e p="Challenge" t="Include">
+            <e p="Bomb.cs" t="Include" />
+            <e p="BombPoolManager.cs" t="Include" />
+            <e p="ObstacleFieldGenerator.cs" t="Include" />
+            <e p="ObstaclePass.cs" t="Include" />
+            <e p="ObstacleVisibility.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="MultiLangTextEditor.cs" t="Include" />
+          </e>
+          <e p="Input" t="Include">
+            <e p="KeyBoardInputManager.cs" t="Include" />
+            <e p="TouchInputHandler.cs" t="Include" />
+            <e p="TouchManager.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Anchor.cs" t="Include" />
+            <e p="NearMiss.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Mobile Transparent Vertex Color.shader" t="Include" />
+          </e>
+          <e p="system" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="CameraShake.cs" t="Include" />
+            <e p="DifficultyManager.cs" t="Include" />
+            <e p="Farsi.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="LanguageManager.cs" t="Include" />
+            <e p="MultiLanguageText.cs" t="Include" />
+            <e p="Notifications.cs" t="Include" />
+            <e p="PlayerProfile.cs" t="Include" />
+            <e p="RefrenceHolder.cs" t="Include" />
+            <e p="SceneManagement.cs" t="Include" />
+            <e p="Score.cs" t="Include" />
+            <e p="StaticNames.cs" t="Include" />
+            <e p="TestDataSaver.cs" t="Include" />
+          </e>
+          <e p="Tutorial" t="Include">
+            <e p="EndOfTutorial.cs" t="Include" />
+            <e p="LoadInfiniteGenerator.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="LeaderboardsUiManager.cs" t="Include" />
+            <e p="LoseMenuUiManager.cs" t="Include" />
+            <e p="MainMenuUiManager.cs" t="Include" />
+            <e p="SettingsUiManager.cs" t="Include" />
+            <e p="TutorialUI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Texture" t="Include">
+          <e p="License free.txt" t="Include" />
+          <e p="License premium.txt" t="Include" />
+        </e>
+        <e p="TODO.txt" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MainTunel.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
